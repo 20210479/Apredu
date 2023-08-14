@@ -6,6 +6,9 @@
     padding-top: 20px;
 }
 
+#botonesAcc{
+margin-left: 150px;
+}
 
 #private-container{
     display: grid;
